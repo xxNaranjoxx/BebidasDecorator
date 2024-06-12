@@ -2,7 +2,7 @@ package Bebidas;
 
 public class Te extends Bebida {
     public Te() {
-        descripcion = "Té";
+        descripcion = "Taza de Té y: ";
     }
 
     public double costo() {

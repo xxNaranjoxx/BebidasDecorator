@@ -2,7 +2,7 @@ package Bebidas;
 
 public class ChocolateCaliente extends Bebida {
     public ChocolateCaliente() {
-        descripcion = "Chocolate Caliente";
+        descripcion = "Taza de Chocolate Caliente con: ";
     }
 
     public double costo() {

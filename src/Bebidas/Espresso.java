@@ -2,7 +2,7 @@ package Bebidas;
 
 public class Espresso extends Bebida {
     public Espresso() {
-        descripcion = "Espresso";
+        descripcion = "Taza de Espresso con: ";
     }
 
     public double costo() {

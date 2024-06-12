@@ -2,7 +2,7 @@ package Bebidas;
 
 public class TeVerde extends Bebida {
     public TeVerde() {
-        descripcion = "Té Verde";
+        descripcion = "Té Verde con: ";
     }
 
     public double costo() {
